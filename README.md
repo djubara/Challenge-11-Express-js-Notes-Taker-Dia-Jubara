@@ -19,13 +19,13 @@
 
   > ## Screen Shot
 
-  ![image](C:\Users\djuba\BootCamp\Challenge-11-Express-js-Notes-Taker-Dia-Jubara\lib\public\assets\img\NotesTaker-ScreenShot.png)
+  ![image](https://github.com/djubara/Challenge-11-Express-js-Notes-Taker-Dia-Jubara/blob/main/lib/public/assets/img/NotesTaker-ScreenShot.png?raw=true)
 
   > ## Installation
 
   1. Clone Repository.
   2. Install Dependencies.
-  3. Run Server with node server.js.
+  3. Run Server with `node server.js`.
 
   > ## Usage
 
