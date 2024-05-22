@@ -45,7 +45,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
   > ## Screen Shot
 
-  ![image](./lib/public/assets/img/NotesTaker-ScreenShot.png)
+![image](./lib/public/assets/img/NotesTaker-ScreenShot.png)
+---
 
   ![image](./lib/public/assets/img/Render-ScreenShot.png)
 
