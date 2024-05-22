@@ -45,8 +45,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
   > ## Screen Shot
 
-  ![image](https://github.com/djubara/Challenge-11-Express-js-Notes-Taker-Dia-Jubara/blob/main/lib/public/assets/img/NotesTaker-ScreenShot.png?raw=true)
-  <!-- ![image](https://github.com/djubara/Challenge-11-Express-js-Notes-Taker-Dia-Jubara/blob/main/lib/public/assets/img/Render-ScreenShot.png?raw=true) -->
+  ![image](./lib/public/assets/img/NotesTaker-ScreenShot.png)
+
   ![image](./lib/public/assets/img/Render-ScreenShot.png)
 
   > ## Installation
